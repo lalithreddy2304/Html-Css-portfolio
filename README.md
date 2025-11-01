@@ -50,12 +50,7 @@ Through these projects, I learned how to:
 
 ---
 
-## Future Plans
 
-I’ll continue updating this repository as I learn *Flexbox, **Grid, and **JavaScript*.  
-My goal is to make interactive and responsive web applications in the coming months.  
-
----
 
 ##  Contact
 
