@@ -9,11 +9,8 @@ This repository showcases the projects I built while experimenting with layouts,
 ##  About This Repository
 
 As a *first-year Computer Science student*, I wanted to apply what I’ve learned by building small projects that reflect my growth in:
-- Structuring web pages using *HTML5*
-- Designing and styling them using *CSS3*
-- Understanding *responsiveness, **color combinations, and **text formatting*
-
-Each project is simple yet demonstrates different aspects of HTML and CSS.
+- Structuring web pages using *HTML*
+- Designing and styling them using *CSS*
 
 ---
 
