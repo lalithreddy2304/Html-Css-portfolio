@@ -33,4 +33,4 @@ So, I built this portfolio to:
 ##  How to View
 
 You can view it live on GitHub Pages (after deployment):  
-🔗 [Live Demo](https://yourusername.github.io/html-css-portfolio/student-portfolio/)  
+🔗 [Live Demo](https://lalithreddy2304.github.io/Html-Css-portfolio/student-portfolio/)  
